@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "FirstName": "harish",
+      "SecondName": "malisetty",
+      "MobileNumber": "9964517148",
+      "DOB": "1995-01-01",
+      "Gender": "male",
+      "EmailAddress": "malisettyharish@gmail.com",
+      "id": 1
+    },
+    {
+      "FirstName": "harish",
+      "SecondName": "rishi",
+      "MobileNumber": "9160026406",
+      "DOB": "1995-01-01",
+      "Gender": "male",
+      "EmailAddress": "harishrishi@gmail.com",
+      "id": 2
+    },
+    {
+      "FirstName": "chanakya",
+      "SecondName": "yechuri",
+      "MobileNumber": "9999999999",
+      "DOB": "1994-01-01",
+      "Gender": "male",
+      "EmailAddress": "ychanakya@gmail.com",
+      "id": 3
+    },
+    {
+      "FirstName": "sai",
+      "SecondName": "kumar",
+      "MobileNumber": "7878787878",
+      "DOB": "1997-01-01",
+      "Gender": "male",
+      "EmailAddress": "saikumar@gmai.com",
+      "id": 4
+    },
+    {
+      "FirstName": "sai",
+      "SecondName": "teja",
+      "MobileNumber": "9898989898",
+      "DOB": "1998-09-09",
+      "Gender": "male",
+      "EmailAddress": "saiteja@gmail.com",
+      "id": 5
+    },
+    {
+      "FirstName": "chai",
+      "SecondName": "tanya",
+      "MobileNumber": "9797979797",
+      "DOB": "1999-03-03",
+      "Gender": "male",
+      "EmailAddress": "chaitanya@gmail.com",
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

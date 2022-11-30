@@ -1,0 +1,16 @@
+.Counter_header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    margin-top: 100px;
+}
+h1{
+    color: brown;
+    margin-bottom: 30px;
+}
+Button{
+    margin-top: 10px;
+    
+}
